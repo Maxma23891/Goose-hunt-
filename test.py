@@ -24,6 +24,7 @@ customer = input("1.ห่าน Premium  เเละ 2.ห่าน Economic: 
 i=0
 if (customer == "1"):
     print("ราคา 100 บาทนะคะ")
+    print("-----------------")
     op1 = input("โปรดพิมพ์ Yes:   ")
     op1 == "Yes" 
     print("สังดเกต รปภ อ้างอิงเวลา")
@@ -39,7 +40,7 @@ if (customer == "1"):
     print(" your order is completed")
 elif (customer == "2" ):
     print("ราคา 50 บาท นะคะ")
-
+    print("-----------------")
     op1 = input("โปรดพิมพ์ Yes:   ")
     op1 == "Yes" 
     print("สังดเกต รปภ อ้างอิงเวลา")
