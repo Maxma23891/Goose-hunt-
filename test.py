@@ -55,6 +55,9 @@ elif (customer == "2" ):
     print("---------------")
     print(" your order is completed")
 
+else :
+     print("error")
+
 
 
 
