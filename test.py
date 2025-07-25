@@ -50,7 +50,7 @@ elif (customer == "2" ):
     for x in range (3) :
          print("กำลังเตรียม")
     print("---------------")
-    for x in range (9) :
+    for x in range (6) :
             print("ปรุง")
     print("---------------")
     print(" your order is completed")
